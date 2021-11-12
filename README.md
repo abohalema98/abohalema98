@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Mohamed Ahmed Abd El Aziz</h2>
-<h3 align="center">JavaScript Developer(MEAN Stack Developer)!</h3>
+<h6 align="center">JavaScript Developer(MEAN Stack Developer)!</h6>
 
 - 🔭 I’m currently working on **E-Commerce App**
 
@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/mohamed-ahmed98/**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mohamed-ahmed98/](https://www.linkedin.com/in/mohamed-ahmed98/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
