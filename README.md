@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohamed Ahmed Abd El Aziz</h1>
+<h2 align="center">Hi 👋, I'm Mohamed Ahmed Abd El Aziz</h2>
 <h3 align="center">JavaScript Developer(MEAN Stack Developer)!</h3>
-
-<p align="left"> <a href="https://twitter.com/abo_halema98" target="blank"><img src="https://img.shields.io/twitter/follow/abo_halema98?logo=twitter&style=for-the-badge" alt="abo_halema98" /></a> </p>
 
 - 🔭 I’m currently working on **E-Commerce App**
 
